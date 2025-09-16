@@ -1,3 +1,5 @@
+<img src="wze.gif" alt="GIF" width="100%" height="100%" />
+
 ## Hi there 👋
 
 <!--
